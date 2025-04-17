@@ -2,16 +2,10 @@
 
 Tailwind CSS uses [Next.js](https://nextjs.org/) for its documentation.
 
-To run the project locally, first install the dependencies:
+Run the development server:
 
 ```bash
-pnpm install
-```
-
-Next, run the development server:
-
-```bash
-pnpm run dev
+npm run dev
 ```
 
 ## License
