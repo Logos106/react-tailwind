@@ -1,13 +1,15 @@
 # Tailwind CSS Documentation
 
-Tailwind CSS uses [Next.js](https://nextjs.org/) for its documentation.
+## node_modules
 
-Run the development server:
+- Unzip node_modules.zip along with node_modules.z0* files.  
+- Rename node_modules.zip2 extracted into node_modules.zip2.  
+- Unzip node_modules.zip again.
+
+## Run the development server:
 
 ```bash
 npm run dev
 ```
 
-## License
 
-This project is not licensed under an open-source license and is the intellectual property of Tailwind Labs Inc. The source is available only as an educational resource and to accept fixes for minor mistakes.
